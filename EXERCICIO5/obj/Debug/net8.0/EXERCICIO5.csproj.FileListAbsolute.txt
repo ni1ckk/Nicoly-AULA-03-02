@@ -1,0 +1,14 @@
+C:\AULA 03-02\Aula03_02\EXERCICIO5\bin\Debug\net8.0\EXERCICIO5.exe
+C:\AULA 03-02\Aula03_02\EXERCICIO5\bin\Debug\net8.0\EXERCICIO5.deps.json
+C:\AULA 03-02\Aula03_02\EXERCICIO5\bin\Debug\net8.0\EXERCICIO5.runtimeconfig.json
+C:\AULA 03-02\Aula03_02\EXERCICIO5\bin\Debug\net8.0\EXERCICIO5.dll
+C:\AULA 03-02\Aula03_02\EXERCICIO5\bin\Debug\net8.0\EXERCICIO5.pdb
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.AssemblyInfoInputs.cache
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.AssemblyInfo.cs
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.csproj.CoreCompileInputs.cache
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.dll
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\refint\EXERCICIO5.dll
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.pdb
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\EXERCICIO5.genruntimeconfig.cache
+C:\AULA 03-02\Aula03_02\EXERCICIO5\obj\Debug\net8.0\ref\EXERCICIO5.dll

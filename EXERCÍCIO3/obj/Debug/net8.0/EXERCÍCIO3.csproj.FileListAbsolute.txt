@@ -1,0 +1,14 @@
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\bin\Debug\net8.0\EXERCÍCIO3.exe
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\bin\Debug\net8.0\EXERCÍCIO3.deps.json
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\bin\Debug\net8.0\EXERCÍCIO3.runtimeconfig.json
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\bin\Debug\net8.0\EXERCÍCIO3.dll
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\bin\Debug\net8.0\EXERCÍCIO3.pdb
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.AssemblyInfoInputs.cache
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.AssemblyInfo.cs
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.csproj.CoreCompileInputs.cache
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.dll
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\refint\EXERCÍCIO3.dll
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.pdb
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\EXERCÍCIO3.genruntimeconfig.cache
+C:\AULA 03-02\Aula03_02\EXERCÍCIO3\obj\Debug\net8.0\ref\EXERCÍCIO3.dll
